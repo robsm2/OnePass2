@@ -1,0 +1,34 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eaf6fb;
+  margin: 0;
+  padding: 0;
+}
+.water { background-color: #007db8; color: white; }
+.wastewater { background-color: #2e6e4c; color: white; }
+header {
+  text-align: center;
+  padding: 1em;
+}
+.logo {
+  width: 60px;
+}
+main {
+  padding: 1em;
+  background: white;
+  color: black;
+}
+.video-container {
+  margin-bottom: 1em;
+}
+.hidden {
+  display: none;
+}
+button {
+  background: #007db8;
+  color: white;
+  padding: 0.8em;
+  border: none;
+  width: 100%;
+}
